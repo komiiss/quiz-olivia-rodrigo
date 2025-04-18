@@ -1,6 +1,6 @@
 # 🎤 Qual música da Olivia Rodrigo é você? 💜
 
-Esse é um quiz interativo feito em **Python** onde você responde 3 perguntinhas e descobre qual música da diva Olivia Rodrigo mais combina com a sua vibe 
+Esse é um quiz interativo feito em **Python** onde você responde 3 perguntinhas e descobre qual música da  Olivia Rodrigo mais combina com a sua vibe 
 
 ## 💡 Sobre o projeto
 
@@ -11,7 +11,7 @@ As músicas possíveis de resultado são:
 - 🔥 Get Him Back  
 - 💔 Pretty Isn’t Pretty  
 
-Tudo depende das suas respostas… então pense bem 😈
+Tudo depende das suas respostas… então pense bem 
 
 ## 🛠️ Como rodar o projeto
 
