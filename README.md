@@ -1,6 +1,6 @@
 # 🎤 Qual música da Olivia Rodrigo é você? 💜
 
-Esse é um quiz interativo feito em **Python** onde você responde 3 perguntinhas e descobre qual música da diva Olivia Rodrigo mais combina com a sua vibe 💅
+Esse é um quiz interativo feito em **Python** onde você responde 3 perguntinhas e descobre qual música da diva Olivia Rodrigo mais combina com a sua vibe 
 
 ## 💡 Sobre o projeto
 
